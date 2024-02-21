@@ -19,4 +19,4 @@ EXPOSE 8000
 # Set environment variables
 ENV DJANGO_SETTINGS_MODULE=geolocation_django.settings
 ENV SECRET=django-insecure-v(84_((p$qs44e)_k6s^bl45yheje(_@!(&muo_yrp3gtk5$!1
-ENV POSTGRES_INTERNAL_URL=postgres://manav1011:5pAa5uHE6FjCMFTXM3TzKQVpWd1SCXzs@dpg-cnb5u7md3nmc73dpbigg-a/geo_rk1q
+ENV POSTGRES_INTERNAL_URL=postgres://manav1011:5pAa5uHE6FjCMFTXM3TzKQVpWd1SCXzs@dpg-cnb5u7md3nmc73dpbigg-a.singapore-postgres.render.com/geo_rk1q
